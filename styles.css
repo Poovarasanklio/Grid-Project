@@ -13,7 +13,7 @@ a{
 .mastergrid{
     display: grid;
     grid-template-columns:17% 83% ;
-    grid-template-rows: 100vh;
+    grid-template-rows: auto;
 }
 .navigation {
     background-color: #018fd6;
